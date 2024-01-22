@@ -1,0 +1,22 @@
+.pro{
+    display: flex;
+    gap: 10px;
+    align-self: stretch;
+    flex:1 1 250px;
+    flex-wrap: wrap;
+}
+.pros{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+    flex:1 1 250px;
+    flex-wrap: wrap;
+    border-radius: 8px;
+    border: 1px solid black;
+    gap: 10px;
+}
+.info{
+    display: flex;
+    gap: 30px;
+}
